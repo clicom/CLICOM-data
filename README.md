@@ -1,7 +1,6 @@
 # CLICOM
 
-This repository is an archive of the CLICOM code base and also contains
-sample CLICOM data.
+This repository is an archive of sample CLICOM data.
 
 Some files in this repository are greater than 100 Mb therefore
 we have enabled [Large File Storage (LFS)](https://git-lfs.github.com/)
